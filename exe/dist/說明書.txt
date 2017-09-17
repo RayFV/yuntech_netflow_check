@@ -1,0 +1,46 @@
+【第一次使用請注意，請先前往config.ini設定你的IP】
+
+yuntech_netflow_check.exe 為 啟動檔
+
+Close_Program 為 關閉檔，如果覺得煩可以點擊這個檔案關閉
+
+config.ini 為 設定檔 可用notepad打開進行設定，以下為各個參數的說明：
+
+[DEFAULT]   （不要把這行刪掉）
+IP: [填寫你的IP]
+URL: [網路查詢的url，請保持不變]
+
+alert_type: [選擇提醒模式]
+#### 1:每隔幾分鐘(notifac_intervals_minutes)提醒一次#####
+#### 2:當超過netflow_alert時才每隔幾分鐘(notifac_intervals_minutes)提醒一次
+####
+netflow_alert: [超過多少"GB"時提醒]
+notifac_intervals_minutes: [每隔?分鐘檢查一次]
+
+
+========================【範例】========================
+[DEFAULT]
+IP: 140.125.206.111
+URL: https://yunnet.yuntech.edu.tw/netflow
+netflow_alert: 5
+
+# alert_type::: 
+# 1: notifacation every intervals minutes 
+# 2: only notifacation when netflow greater than netflow_alert
+alert_type: 2
+notifac_intervals_minutes: 10
+=======================================================
+
+注意事項：
+0）請先去設定自己的IP！！！！
+1）目前只適用於win10
+2）如果突然覺得煩，只要點Close_Program就可以惹
+3）超過7G會有小驚喜
+
+作者的(廢)話：
+由於一直覺得 【進入網管網站→查詢IP/登入→檢查流量】這個動作非常地繁瑣，
+剛好進入大學學會了一點程式語言，就為自己寫了一隻自動查詢並提醒的小程式。
+在第一天寫的時候，湊巧室友的網路爆掉了，我就開始思考我寫的程式或許可以分享給大家。
+因此這是我第一次將自己寫的小程式分享給大家，希望大家會喜歡。
+
+Github：

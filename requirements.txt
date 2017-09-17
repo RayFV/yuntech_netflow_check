@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+configparser
+apscheduler
+win10toast
+lxml

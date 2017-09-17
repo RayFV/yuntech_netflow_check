@@ -1,0 +1,79 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\users\raymond\appdata\local\programs\python\python35-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by c:\users\raymond\appdata\local\programs\python\python35-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named __builtin__ - imported by pkg_resources._vendor.pyparsing
+missing module named ordereddict - imported by html5lib.html5parser, html5lib.treewalkers.etree, html5lib.filters.alphabeticalattributes, pkg_resources._vendor.pyparsing
+missing module named StringIO - imported by requests.packages.urllib3.packages.six, urllib3.packages.six, six, requests.compat, pkg_resources._vendor.six
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named __main__ - imported by pkg_resources
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named _sysconfigdata - imported by sysconfig
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named resource - imported by posix, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named posix - imported by os, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named 'org.python' - imported by pickle, xml.sax, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named readline - imported by cmd, code, pdb, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named _winreg - imported by platform, tzlocal.win32, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw, pkg_resources._vendor.appdirs
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named vms_lib - imported by platform, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named termios - imported by tty, getpass, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named urllib.urlopen - imported by urllib, lxml.html
+missing module named urllib.getproxies - imported by urllib, requests.compat
+missing module named urllib.proxy_bypass - imported by urllib, requests.compat
+missing module named urllib.quote_plus - imported by urllib, requests.compat
+missing module named urllib.unquote_plus - imported by urllib, requests.compat
+missing module named urllib.unquote - imported by urllib, asn1crypto._iri, requests.compat
+missing module named urllib.quote - imported by urllib, asn1crypto._iri, requests.compat
+missing module named urllib.urlencode - imported by urllib, requests.packages.urllib3.request, requests.compat, lxml.html
+missing module named grp - imported by tarfile, shutil, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, distutils.util, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named ce - imported by os, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named _dummy_threading - imported by dummy_threading, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named org - imported by copy, D:\PyCharm\Project\auto_check_netflow\yuntech_netflow_check.pyw
+missing module named funcsigs - imported by apscheduler.util
+missing module named cStringIO - imported by asn1crypto.core, pytz.tzfile
+missing module named copy_reg - imported by cStringIO
+missing module named sets - imported by pytz.tzinfo
+missing module named UserDict - imported by asn1crypto._ordereddict, pytz.lazy
+missing module named iconv_codec - imported by bs4.dammit
+missing module named cchardet - imported by bs4.dammit
+missing module named html5lib.treebuilders._base - imported by html5lib.treebuilders, bs4.builder._html5lib
+runtime module named six.moves - imported by cryptography.hazmat.backends.openssl.decode_asn1, cryptography.x509.general_name, html5lib._inputstream, html5lib.filters.sanitizer
+missing module named 'six.moves.urllib' - imported by 'six.moves.urllib'
+missing module named 'genshi.core' - imported by html5lib.treewalkers.genshi
+missing module named genshi - imported by html5lib.treewalkers.genshi
+missing module named datrie - imported by html5lib._trie.datrie
+missing module named cssselect - imported by lxml.cssselect
+missing module named urlparse - imported by requests.packages.urllib3.poolmanager, asn1crypto._iri, requests.compat, lxml.html
+missing module named 'requests.packages.urllib3.packages.six.moves' - imported by requests.packages.urllib3.util.response, requests.packages.urllib3.response
+missing module named httplib - imported by requests.packages.urllib3.connection
+missing module named Queue - imported by requests.packages.urllib3.connectionpool, urllib3.connectionpool
+missing module named 'backports.ssl_match_hostname' - imported by requests.packages.urllib3.packages.ssl_match_hostname, urllib3.packages.ssl_match_hostname
+missing module named _abcoll - imported by requests.packages.urllib3.packages.ordered_dict, urllib3.packages.ordered_dict
+missing module named dummy_thread - imported by requests.packages.urllib3.packages.ordered_dict, urllib3.packages.ordered_dict
+missing module named thread - imported by requests.packages.urllib3.packages.ordered_dict, urllib3.packages.ordered_dict
+missing module named Cookie - imported by requests.compat
+missing module named cookielib - imported by requests.compat
+missing module named urllib2 - imported by requests.compat
+missing module named simplejson - imported by requests.compat
+missing module named 'urllib3.packages.six.moves' - imported by urllib3.exceptions, urllib3.connectionpool, urllib3.connection, urllib3.util.response, urllib3.request, urllib3.response, urllib3.poolmanager
+missing module named win_inet_pton - imported by socks
+missing module named 'pyasn1.type' - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named pyasn1 - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named 'ndg.httpsclient' - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named ndg - imported by requests.packages.urllib3.contrib.pyopenssl
