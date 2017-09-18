@@ -28,7 +28,6 @@ pyinstaller -F -w yuntech_netflow_check.pyw --additional-hooks-dir=.
 User can edit config.ini to modify default setting .
 
 ## Reference: 
-https://brennan.io/2016/03/02/logging-in-with-requests/   <br>
 http://www.cnblogs.com/ginponson/p/6079928.html   <br>
 https://gist.github.com/phillipsm/0ed98b2585f0ada5a769  <br>
 https://stackoverflow.com/questions/14845896/pygame-cannot-open-sound-file/41989994#41989994 <br>
