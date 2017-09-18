@@ -2,9 +2,9 @@
 --只適用於國立雲林科技大學的宿舍
 
 # 2017/09/18下午17:00 無法使用
-由於宿網增加了驗證，所以這程式沒辦法使用了
-作者很懶惰，就不更新了
-有需求和能力的人可以自己利用這殘廢的程式分支開發出自己需要的
+由於宿網增加了驗證，所以這程式沒辦法使用了 <br>
+作者很懶惰，就不更新了<br>
+有需求和能力的人可以自己利用這殘廢的程式分支開發出自己需要的<br>
 
 ## Requirements
 ```
@@ -28,8 +28,8 @@ pyinstaller -F -w yuntech_netflow_check.pyw --additional-hooks-dir=.
 User can edit config.ini to modify default setting .
 
 ## Reference: 
-https://brennan.io/2016/03/02/logging-in-with-requests/   <p>
-http://www.cnblogs.com/ginponson/p/6079928.html   <p>
-https://gist.github.com/phillipsm/0ed98b2585f0ada5a769  <p>
-https://stackoverflow.com/questions/14845896/pygame-cannot-open-sound-file/41989994#41989994  <p>
+https://brennan.io/2016/03/02/logging-in-with-requests/   <br>
+http://www.cnblogs.com/ginponson/p/6079928.html   <br>
+https://gist.github.com/phillipsm/0ed98b2585f0ada5a769  <br>
+https://stackoverflow.com/questions/14845896/pygame-cannot-open-sound-file/41989994#41989994 <br>
 https://github.com/jithurjacob/Windows-10-Toast-Notifications  
